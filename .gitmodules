@@ -1,0 +1,3 @@
+[submodule "nonlinear"]
+	path = nonlinear
+	url = https://github.com/Nithisai/nonlinear.git
